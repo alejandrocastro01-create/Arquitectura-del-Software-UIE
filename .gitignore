@@ -1,0 +1,14 @@
+#Archivos de Python que no quiero subir
+__pycache__/
+*.pyc
+
+#Entornos virtuales
+.venv/
+venv/
+
+#Configuracion del editor
+.vscode/
+.idea/
+
+#Variables de entorno y claves
+.env
